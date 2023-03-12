@@ -1,2 +1,2 @@
 # MyLearnGitHub
-This is a pository for myself learning. 
+This is a repository for myself learning. 
