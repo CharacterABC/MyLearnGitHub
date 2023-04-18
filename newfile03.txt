@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
 this line is changed by remotemain.
+=======
+chaged by localone.
+
+>>>>>>> 9eeb423 (changeNewfile03.txt)
